@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/nabil/Documents/
+gcc keyboard.c
+./a.out
